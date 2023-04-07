@@ -79,6 +79,7 @@ details{
 /* Aca estan los Css de la pagina de Contacto */
 iframe{
     margin: 0 auto;
+    border-radius: 30px;
 }
 
 .sectContacto{
@@ -101,7 +102,8 @@ section h2{
 }
 
 .info p{
-    font-size: 17px;
+    font-size: 15px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 
 .info a{
