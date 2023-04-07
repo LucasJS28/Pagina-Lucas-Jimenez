@@ -67,6 +67,8 @@ article div img{
     width: 300px;
     
 }
+
+
 details{
     padding: 10px;
     cursor: pointer;
@@ -74,11 +76,35 @@ details{
     border-top: 1px solid black;
     
 }
-
+/* Aca estan los Css de la pagina de Contacto */
 iframe{
-    width: 100px;
+    margin: 0 auto;
 }
 
 .sectContacto{
-    width: 100%;
+    text-align: center;
 }
+section h2{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.info{
+    width: 1000px;
+    height: 100px;
+    margin: 50px auto;
+    border: 1px solid black;
+    border-radius: 30px;
+    column-count: 2;
+    padding: 20px;
+    background-color: rgba(250, 250, 232, 0.993);
+}
+
+.info p{
+    font-size: 17px;
+}
+
+.info a{
+    text-decoration: none;
+}
+
