@@ -1,8 +1,9 @@
 section{
     width: 600px;
-    height: 900px;
+    height: auto;
     float: right;
     background-color: rebeccapurple;
+    min-height: 782px;
 }
 
 section h2,p{
@@ -51,3 +52,8 @@ article h2{
     font-weight: 800;
 }
 
+@media (max-width:1390px){
+    section{
+        min-height: 690px;
+    }
+}
