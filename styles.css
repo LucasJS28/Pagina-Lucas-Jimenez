@@ -1,0 +1,76 @@
+body{
+    margin: 0;
+}
+nav{
+    background-color: rgb(235, 181, 181);
+    height: 70px;
+}
+
+nav img{
+    width: 50px;
+    margin: 5px 0px 5px 10px;
+}
+
+.lista{
+    width: 500px;
+    margin-right: 100px;
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-between;
+    float: right;
+}
+
+#titulo{
+    color: blue;
+    text-align: center;
+    font-family: cursive;
+    font-size: 30px;
+    padding-top: 10px;
+    font-style: oblique;
+}
+#subtitulo{
+    color: rgb(7, 7, 78);
+    text-align: center;
+    margin-top: -20px;
+    font-style:italic;
+}
+
+#Titulo2{
+    text-align: center;
+    color: crimson;
+    border: 1px solid black;
+    border-radius: 30px;
+    padding: 5px;
+}
+#Bienvenida{
+    height: 130px;
+    background: rgb(224, 216, 231);
+    width: 90%;
+    margin: 50px auto;
+    border-radius:30px;
+    border: 5px solid black;
+}
+
+footer{
+    padding-top: 100px;
+    height: 50px;
+    position: relative;
+    bottom: 0;
+}
+
+.Juegos{
+    width: 1300px;
+    margin: 0 auto;
+}
+
+article div img{
+    width: 300px;
+    
+}
+details{
+    padding: 10px;
+    cursor: pointer;
+    background-color: rgb(255, 248, 238);
+    border-top: 1px solid black;
+    
+}
