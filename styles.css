@@ -74,3 +74,11 @@ details{
     border-top: 1px solid black;
     
 }
+
+iframe{
+    width: 100px;
+}
+
+.sectContacto{
+    width: 100%;
+}
