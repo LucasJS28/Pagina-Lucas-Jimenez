@@ -3,6 +3,8 @@
 body{
     margin: 0;
 }
+
+/* Estilos del Navegador */
 nav{
     background-color: rgb(235, 181, 181);
     height: 70px;
@@ -22,7 +24,7 @@ nav img{
     justify-content: space-between;
     float: right;
 }
-
+/* Estilos de los Titulos de la Pagina Principal */
 #titulo{
     color: blue;
     text-align: center;
@@ -41,6 +43,9 @@ nav img{
 #Titulo2{
     text-align: center;
     color: crimson;
+    width: 400px;
+    margin: 0 auto;
+    margin-bottom: 20px;
     border: 1px solid black;
     border-radius: 30px;
     padding: 5px;
@@ -113,4 +118,3 @@ section h2{
 .info a{
     text-decoration: none;
 }
-

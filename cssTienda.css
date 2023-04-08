@@ -1,7 +1,9 @@
+/* Estilos de la Pagina Tienda luego del Login */
+
 body{
     margin: 0;
 }
-
+/* Estilo Navegador Pagina */
 nav{
     background-color: rgb(235, 181, 181);
     height: 70px;
@@ -24,7 +26,7 @@ ul a{
     color:red;
     text-decoration: none;
 }
-
+/* Estilo Contenido Pagina */
 .titulos{
     text-align: center;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -32,7 +34,7 @@ ul a{
 }
 
 .listaJuegos{
-    width: 1250px;
+    width: 1220px;
     height: 700px;
     margin: 0 auto;
 }
