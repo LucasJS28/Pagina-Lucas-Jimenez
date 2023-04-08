@@ -6,6 +6,7 @@ body{
 nav{
     background-color: rgb(235, 181, 181);
     height: 70px;
+    width: auto;
 }
 
 nav img{
@@ -67,7 +68,7 @@ footer{
 }
 
 article div img{
-    width: 300px;
+    width: 320px;
     
 }
 

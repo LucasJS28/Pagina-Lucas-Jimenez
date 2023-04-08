@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+}
+
+nav{
+    background-color: rgb(235, 181, 181);
+    height: 70px;
+    width: auto;
+}
+
+nav img{
+    width: 50px;
+    margin: 5px 0px 5px 10px;
+}
+ul{
+    float: right;
+    list-style: none;
+    padding: 10px;
+    margin-right: 20px;
+    background-color: black;
+    border-radius: 30px;
+}
+ul a{
+    color:red;
+    text-decoration: none;
+}
+
+.titulos{
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: oblique;
+}
+
+.listaJuegos{
+    width: 1250px;
+    height: 700px;
+    margin: 0 auto;
+}
+
+section img{
+    width: 300px;
+}
