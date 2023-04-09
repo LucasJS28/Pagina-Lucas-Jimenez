@@ -25,6 +25,15 @@ nav img{
     float: right;
 }
 /* Estilos de los Titulos de la Pagina Principal */
+#Bienvenida{
+    height: 130px;
+    background: rgb(224, 216, 231);
+    width: 90%;
+    margin: 50px auto;
+    border-radius:30px;
+    border: 5px solid black;
+}
+
 #titulo{
     color: blue;
     text-align: center;
@@ -33,6 +42,7 @@ nav img{
     padding-top: 10px;
     font-style: oblique;
 }
+
 #subtitulo{
     color: rgb(7, 7, 78);
     text-align: center;
@@ -49,14 +59,6 @@ nav img{
     border: 1px solid black;
     border-radius: 30px;
     padding: 5px;
-}
-#Bienvenida{
-    height: 130px;
-    background: rgb(224, 216, 231);
-    width: 90%;
-    margin: 50px auto;
-    border-radius:30px;
-    border: 5px solid black;
 }
 
 /* Estilos del Detailts Inferior //Footer */
