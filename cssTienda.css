@@ -1,3 +1,6 @@
+* {
+    box-sizing: border-box;
+}
 /* Estilos de la Pagina Tienda luego del Login */
 
 body{
@@ -11,7 +14,7 @@ nav{
 }
 
 nav img{
-    width: 50px;
+    width: 110px;
     margin: 5px 0px 5px 10px;
 }
 ul{
@@ -41,4 +44,39 @@ ul a{
 
 section img{
     width: 300px;
+}
+
+/* Estilos Juegos */
+
+.juego {
+    margin: 10px;
+}
+
+.infoo {
+    width: auto;
+    height:40px;
+    color: rgb(0, 0, 0);
+    background-color: #ffffff;
+    border: 1px solid #000000;
+    margin-top: -10px;
+}
+
+.infoo h3 {
+    font-size: 15px;
+    float: left;
+    margin-left: 10px;
+}
+.infoo h4 {
+    font-size: 15px;
+    float: right;
+    color: rgb(0, 0, 0);
+    font-style: italic;
+    margin-right: 10px;
+}
+.Juegos{
+    width: auto;
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: center;
+    align-items: center;
 }
