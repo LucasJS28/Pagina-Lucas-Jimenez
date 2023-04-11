@@ -154,3 +154,36 @@ section h2{
     font-style: italic;
     margin-right: 10px;
 }
+
+/* Estilando la Tabla */
+
+#TTabla{
+    color: rgb(102, 102, 102);
+    padding: 10px;
+    background-color: rgb(245, 245, 245);
+    width: 700px;
+    margin: 0 auto 20px auto;
+    border-radius: 30px;
+    border: 1px solid black;
+}
+table,tr,td,th{
+    border: 1px solid rgb(219, 219, 219) ;
+    border-collapse: collapse;
+    background-color: rgb(245, 245, 245);
+    text-align: left;
+    color: rgb(102, 102, 102);
+    font-size: 18px;
+    font-family: Arial, Verdana, Helvetica, sans-serif;
+    padding: 5px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 15px;
+}
+
+table{
+    margin: 30px auto;
+}
+
+th{
+    font-weight: bold;
+}
