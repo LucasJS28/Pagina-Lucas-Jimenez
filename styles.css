@@ -132,20 +132,24 @@ iframe{
 .sectContacto{
     text-align: center;
 }
+
+.sectContacto h2{
+    display: none;
+}
 section h2{
     text-align: center;
     margin-top: 50px;
+    padding-bottom: 20px;
 }
 
 .info{
     width: 1000px;
     height: 150px;
     margin: 50px auto;
-    border: 1px solid black;
+    border: 1px solid #ffffff;
     border-radius: 30px;
     column-count: 2;
     padding: 20px;
-    background-color: rgba(250, 250, 232, 0.993);
 }
 
 .info p{
@@ -155,6 +159,8 @@ section h2{
 
 .info a{
     text-decoration: none;
+    color: red;
+    margin-left: 20px;
 }
 
 /* Css para que Funcione el Precio debajo de cada Imagen */
