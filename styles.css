@@ -232,3 +232,13 @@ table tr td img{
 .imagen{
     padding: 0;
 }
+
+#VideoPresentacion{
+    margin: 40px auto;
+    width: 900px;
+}
+#VideoPresentacion video{
+    margin: 0 auto;
+    width: 900px;
+    border-radius: 30px;
+}
