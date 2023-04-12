@@ -17,6 +17,7 @@ nav{
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 1)),url(fondo/fondov3.jpg);
     height: 70px;
     width: auto;
+    border-bottom: 1px solid rgb(126, 6, 6);
 }
 
 nav img{
