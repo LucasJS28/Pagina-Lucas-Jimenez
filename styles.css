@@ -186,4 +186,15 @@ table{
 
 th{
     font-weight: bold;
+    text-align: center;
+}
+
+table tr td img{
+    width: 300px;
+    padding: 5px;
+    background-color: #000000;
+}
+
+.imagen{
+    padding: 0;
 }
