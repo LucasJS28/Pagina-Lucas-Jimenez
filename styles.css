@@ -114,9 +114,14 @@ article div img{
 details{
     padding: 10px;
     cursor: pointer;
-    background-color: rgb(255, 248, 238);
-    border-top: 1px solid black;
-    
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 1)),url(fondo/fondofooter.jpg);
+    border-top: 1px solid rgb(255, 255, 255);
+}
+details p{
+    color: rgb(255, 255, 255);
+}
+details summary h3{
+    color: rgb(255, 0, 0);
 }
 /* Aca estan los Css de la pagina de Contacto */
 iframe{
@@ -182,20 +187,19 @@ section h2{
 /* Estilando la Tabla */
 
 .TTabla{
-    color: rgb(102, 102, 102);
+    color: rgb(255, 0, 0);
     padding: 10px;
-    background-color: rgb(245, 245, 245);
     width: 700px;
     margin: 0 auto 20px auto;
     border-radius: 30px;
-    border: 1px solid black;
+    border: 1px solid #f5f5f5;
 }
 table,tr,td,th{
-    border: 1px solid rgb(219, 219, 219) ;
+    border: 1px solid #ffffff ;
     border-collapse: collapse;
-    background-color: rgb(245, 245, 245);
+    background-color: transparent;
     text-align: left;
-    color: rgb(102, 102, 102);
+    color: #ffffff;
     font-size: 18px;
     font-family: Arial, Verdana, Helvetica, sans-serif;
     padding: 5px;
