@@ -118,7 +118,7 @@ footer{
 article div img{
     width: auto;
     height: 400px;
-    border: 1px solid rgb(255, 255, 255);
+    border: 5px solid #c50000;
 }
 
 
@@ -184,7 +184,7 @@ section h2{
     height:40px;
     color: rgb(255, 255, 255);
     background-color: #0a0a0a;
-    border: 1px solid #ffffff;
+    border: 5px solid #c50000;
     margin-top: -10px;
 }
 
@@ -252,7 +252,7 @@ table tr td img{
     margin: 0 auto;
     width: 900px;
     border-radius: 30px;
-    box-shadow: 2px 2px 5px #888;
+    box-shadow: 4px 4px 9px #ee0505;
 }
 
 
