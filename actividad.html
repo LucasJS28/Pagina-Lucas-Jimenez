@@ -18,5 +18,29 @@
             <li><a href="actividad.html">Actividad</a></li>
         </ul>
     </nav>
+    <form id="Formulario">
+        <h1 id="titulo">Bienvenido</h1>
+            <label>Introduce tu Nombre:</label>
+            <input type="text" name="nombre" class="cajon" required placeholder="Introduce tu Nombre"><br><br>
+            <label>Mensaje:</label>
+            <input class="inputmsj" type="text" name="mensaje" placeholder="Introduce un Mensaje">
+        <section>
+            <h4>Selecciona el Color de tu Icono</h4>
+            <input type="radio" name="color"> Rojo <br>
+            <input type="radio" name="color"> Verde <br>
+            <input type="radio" name="color"> Azul
+            <hr>
+        </section>
+        <section>
+            <h4>Selecciona Dias con Disponibilidad</h4>
+            <input type="checkbox" name="dia" value="Lunes"> Lunes <br>
+            <input type="checkbox" name="dia" value="Martes"> Martes <br>
+            <input type="checkbox" name="dia" value="Miercoles"> Miercoles <br>
+            <input type="checkbox" name="dia" value="Jueves"> Jueves <br>
+            <input type="checkbox" name="dia" value="Viernes"> Viernes <br>
+        </section>
+            <hr>
+            <input id="enviar" type="submit" value="Probar">
+    </form>
 </body>
 </html>

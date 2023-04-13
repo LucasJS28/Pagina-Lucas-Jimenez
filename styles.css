@@ -262,3 +262,32 @@ table tr td img{
 
 
 /* Estilando la Pagina de Actividad */
+
+/* Cajon Principal */
+#Formulario{
+    width: 600px;
+    margin: 30px auto;
+    border-radius: 30px;
+    border: 5px solid red;
+    padding: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+/* Input Mensaje */
+.inputmsj{
+    width: 400px;
+    padding: 3px;
+}
+/* Boton de Envio */
+#enviar{
+    background-color: #FAD318;
+    color: black;
+    font-size: 15px;
+    font-weight: 800;
+    font-style: italic;
+    width: 200px;
+}
+/* Cajon de Nombre */
+.cajon{
+    padding: 3px;
+    width: 310px;
+}
