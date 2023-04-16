@@ -6,7 +6,7 @@ section{
     width: 600px;
     height: auto;
     float: right;
-    background-color: rebeccapurple;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 1)),url(fondo/fondologin.jpg);
     min-height: 867px;
 }
 

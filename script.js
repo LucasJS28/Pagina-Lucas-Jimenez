@@ -5,6 +5,6 @@ function logear(){
         alert("Iniciaste Sesion");
         window.open("tienda.html");
     }else{
-        alert("Alguno de los Valores es Incorrecto");
+        alert("Correo=qwertyxz@gmail.com  pass=Lucas2000" );
     }
 }
